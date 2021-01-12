@@ -1,6 +1,6 @@
 """Development configuration file.
 """
-DESCRIPTION = "Plugin host api"
+DESCRIPTION = "Description of app."
 ENVIRONMENT = "DEV"
 
 config = {
